@@ -1,4 +1,4 @@
-# Age Calculator Gem ![TravisCI](https://travis-ci.org/OG-Hawks/age-calculator-gem.svg?branch=master)
+# Age Calculator Gem
 
 https://rubygems.org/gems/age_calc
 
